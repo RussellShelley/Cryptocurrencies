@@ -17,3 +17,8 @@ In order to do this:
 
 ## Resources
 Jupyter notebook, pandas ,plotly, sklearn [crypto_data.csv]("./resources/crypto_data.csv")
+
+## Results
+
+See:
+[crypto_clustering.ipynb]("crypto_clustering.ipynb")
