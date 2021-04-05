@@ -16,9 +16,9 @@ In order to do this:
 - Finally, we will visualize these results. We will do this using 3-D scatter, hvp.plot table and 2D scatter plot.
 
 ## Resources
-Jupyter notebook, pandas ,plotly, sklearn [crypto_data.csv]("./resources/crypto_data.csv")
+Jupyter notebook, pandas ,plotly, sklearn [crypto_data.csv](./resources/crypto_data.csv)
 
 ## Results
 
 See:
-[crypto_clustering.ipynb]("crypto_clustering.ipynb")
+[crypto_clustering.ipynb](crypto_clustering.ipynb)
